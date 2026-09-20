@@ -23,6 +23,10 @@ One master rule file, two skills, and a generator that writes the same rules in 
 | `chatgpt/custom-instructions.txt` | Generated. The Core as plain text for the custom-instructions box, split into two parts only if it outgrows 1500 characters. |
 | `chatgpt/writing-style.md`, `chatgpt/pitch-deck.md` | Generated. Each skill as one file for a ChatGPT Project upload. |
 | `scripts/leak.pattern.example` | Template for `scripts/leak.local.pattern`, your private denylist for the leak grep. Git ignores the local file. |
+| `scripts/user.local` | Local, ignored by git. Holds the label for the next-step line, read by `build.py` and `check.sh`. |
+| `.prosecheckignore` | Lists the three generated bundles the prose checker skips. Every line in them is checked in its source file. |
+| `.gitignore` | Keeps the two local files and Python caches out of the repository. |
+| `LICENSE` | CC0 1.0 Universal. The kit is dedicated to the public domain, so no notice has to travel with copies. |
 
 ## Claude Code takes the master, the skills and two hooks
 
@@ -116,7 +120,7 @@ bash scripts/check.sh
 
 Never edit a generated file: `claude/CLAUDE.md`, `chatgpt/*.md`, `chatgpt/*.txt`, `cursor/user-rules.md`, and the pitch-deck `references/INDEX.md` and `references/_full.md`. The generators overwrite them on the next run.
 
-The prose checker skips the three files that glue a whole skill together: `chatgpt/writing-style.md`, `chatgpt/pitch-deck.md` and the pitch-deck `_full.md`. Every line in them is checked in its source file, and the leak grep still covers them.
+The prose checker skips the three files that glue a whole skill together: `chatgpt/writing-style.md`, `chatgpt/pitch-deck.md` and the pitch-deck `_full.md`. Every line in them is checked in its source file, and the leak grep still covers them. The list lives in `.prosecheckignore` at the kit root.
 
 The leak grep reads `scripts/leak.local.pattern`, your private list of names that must not appear in the kit. Copy `scripts/leak.pattern.example` to that name and fill it in. Git ignores the local file, and the check script skips the step when it is absent.
 
