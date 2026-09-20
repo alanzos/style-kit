@@ -1,0 +1,35 @@
+---
+description: One word per concept. Do not mix synonyms in prose, tables, code, or captions.
+alwaysApply: true
+---
+
+# One name per concept
+
+Pick one name for each concept and use it everywhere in that project: prose, tables, figure captions, code, configs, and READMEs. Do not rotate synonyms for variety.
+
+```markdown
+<!-- Bad -->
+users, then customers, then members, then people
+contacts, friends, connections, network
+profile page, CV, member page
+job ad, job post, listing, opening
+
+<!-- Good -->
+members (the people who joined)
+connections (the members a member has linked to)
+profile (what a member shows about themselves)
+job listings (what an employer posts)
+```
+
+Lock a short glossary when a piece of work starts. Use the locked word in running text, headings, figures, and code. Do not switch to a synonym later for style.
+
+Example, using the vocabulary of a professional network such as LinkedIn:
+
+| Concept | Use | Do not mix in |
+| --- | --- | --- |
+| A person who joined | member | user, customer (except in billing code) |
+| A member linked to another member | connection | contact, friend |
+| What a member shows about themselves | profile | page, CV |
+| A job an employer posts | job listing | ad, post |
+
+If a source already named a field (the `Headline` field on the profile form), keep that proper name. Do not invent a parallel nickname beside it.

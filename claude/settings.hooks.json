@@ -1,0 +1,29 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$HOME/.claude/skills/writing-style/scripts/hook.py\"",
+            "timeout": 20,
+            "statusMessage": "Checking the writing bands"
+          }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$HOME/.claude/hooks/inject-core-rules.py\"",
+            "timeout": 10,
+            "statusMessage": "Reloading the core rules"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+---
+description: Write affirmatively. Say what a thing is, not what it is not.
+alwaysApply: true
+---
+
+# Say what the work is
+
+In articles, project cards, READMEs, and other public copy, state what the work **is**.
+
+Do not use disclaimer sentences whose job is to list what the work is not.
+
+```markdown
+<!-- Bad -->
+This is not a recruiting tool and not a social network.
+This is not a finished product.
+This does not replace a resume.
+
+<!-- Good -->
+A network where professionals find and are found.
+A beta open to invited members.
+A profile is a live resume that its owner keeps current.
+```
+
+Allowed: ordinary contrast inside a result ("the new sign-up form converts better than the old one"; "search beats browsing for this task"). Forbidden: a closing section or sentence that exists only to wave off misreadings.
+
+If a limit matters, write it as a positive scope line ("one language, invited members, no mobile app yet"), not as "this is not X."

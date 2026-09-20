@@ -1,0 +1,8 @@
+# One extended regular expression per line. Copy this file to
+# scripts/leak.local.pattern and list the names that must never appear in the
+# kit: your name, your employer, clients, products, cities, email domains and
+# home paths. The local file is ignored by git and read by scripts/check.sh.
+/Users/
+/home/
+@example\.com
+Example Corp

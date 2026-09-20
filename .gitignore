@@ -1,0 +1,4 @@
+scripts/leak.local.pattern
+__pycache__/
+.DS_Store
+scripts/user.local

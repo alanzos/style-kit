@@ -1,0 +1,5 @@
+# Generated concatenations: every line is checked in its source file, and the
+# per-document inline-bold budget cannot hold for a dozen files glued together.
+claude/skills/pitch-deck/references/_full.md
+chatgpt/writing-style.md
+chatgpt/pitch-deck.md
