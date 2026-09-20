@@ -35,28 +35,19 @@ They agree, and each owns one half.
 A slide headline is the clearest case of an assertion heading, which is why both
 guides state that rule.
 
-## A rule from the parent guide that did not cross
+## Filenames in prose depend on the reader
 
-The guide this style descends from forbids filenames in prose: say "the member
-list", never `members.csv`.
-
-That rule governs memos written for a reader with no repository. It does not
-cross to a code repository. There, `scripts/prose_check.py` is a reference the
+A memo for a reader with no repository says "the member list", never
+`members.csv`. In a code repository, `scripts/prose_check.py` is a reference the
 reader can open, and hiding it behind a description makes the document worse.
 
-Recorded here so nobody imports it later by mistake. Three other rules from that
-guide are project-specific and stay behind:
-
-- Opaque labels in place of real names.
-- Its domain vocabulary rules.
-- Its fixed currency format.
-
-The currency principle does cross: do not invent precision.
+One principle holds in both: do not invent precision. A figure keeps the
+precision its source gives it, and a currency keeps one format per document.
 
 ## When a project needs its own copy
 
 A project ships its own style file when that file is itself a deliverable. One
-case: a repository a client or an employer will read as evidence of rigor.
+case: a repository that outside readers will judge as evidence of rigor.
 
 In that case the project file is synced from this skill, not written fresh, and
 the skill stays the source of truth. Otherwise the project points here and keeps

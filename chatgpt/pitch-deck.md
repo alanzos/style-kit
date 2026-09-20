@@ -505,8 +505,8 @@ first and you are asking the reader to accept a number whose units they have not
 been given yet.
 
 That objection gets sharper the further the payer sits from the user. In a B2B2C
-model, a marketplace, or a regulated product where a partner pays and someone else
-is served, the market slide is unreadable until the reader knows who pays.
+model or a marketplace, the market slide is unreadable until the reader knows who
+pays.
 
 **Countervailing considerations.** Founder Institute states that the middle block,
 roughly slides five through nine, is meant to be rearranged to fit the narrative.
@@ -620,11 +620,11 @@ slide numbers are the ones printed on the slides.
 | 10 | **Dramatic silence** | Say nothing for several seconds so the room settles onto you | Generic: hold the Problem slide and say nothing for three seconds. **Caveat:** that is one percent of a five-minute hard stop | C, single source |
 | 11 | **Quotation** | A short line from someone the audience already respects, chosen because it states your thesis better than you can | None advised for this deck; see the cautions below | C |
 
-**The trap to avoid.** A famous line used outside its real context. Franklin's
-"an ounce of prevention is worth a pound of cure" is quoted for everything from
-software to insurance, and it is about fire safety. He wrote it for the
-Pennsylvania Gazette on 1735-02-04, and the proverb predates him by five
-centuries in Bracton's *De Legibus*.
+**The trap to avoid.** A famous line whose real origin undercuts it. "Insanity is
+doing the same thing over and over again and expecting different results" is
+attributed to Einstein in countless decks. The earliest documented use is a 1981
+newspaper account of a recovery-group meeting, and no Einstein source exists
+([Quote Investigator](https://quoteinvestigator.com/2017/03/23/same/)).
 
 A room with one person who knows that is a room where the opening line has just
 cost credibility instead of buying it. The general rule: if you cannot name the
@@ -892,8 +892,8 @@ and for a funding pitch the investor side wins.
 Every named investor-side source says open by stating plainly what the company
 does, with no preamble and no problem setup:
 
-- Michael Seibel and Kevin Hale at Y Combinator ("no need to set up the problem,
-  you can just get to the point"), and Geoff Ralston on demo day.
+- Michael Seibel and Kevin Hale at Y Combinator, who say to skip the problem setup
+  and get to the point, and Geoff Ralston on demo day.
 - Sequoia's own template ("define your company in a single declarative sentence").
 - Reid Hoffman's annotated LinkedIn Series B deck: "I now believe you should begin
   and end with the investment thesis"
@@ -2740,7 +2740,7 @@ On a live projected deck the presenter also says the provenance out loud, so the
 
 For market claims:
 
-> Source: Gartner, 2025; company analysis
+> Source: [research firm], [year]; company analysis
 
 For internal metrics:
 

@@ -4,7 +4,7 @@ Released under CC0 1.0 Universal, see `LICENSE`. Anyone may use, change and shar
 
 ## Provenance: a personal tool with nothing proprietary in it
 
-This kit is the personal writing and presentation toolkit of its author, used for prose of every kind, from work documents to private notes. It was written and is maintained as a private project, outside the duties of any employment, and it was not commissioned by any employer or client.
+This kit is the personal writing and presentation toolkit of its author, used for prose of every kind. It was written and is maintained as a private project, outside the duties of any employment, and it was not commissioned by any employer or client.
 
 It contains no confidential or proprietary material of any organization. Every example is public: a 2004 investor deck its founder published with annotations, founder stories told in public, and academic and practitioner sources, each cited where it is used.
 

@@ -7,19 +7,19 @@ thresholds, and these files hold the reasoning and the citations.
 | File | Answers | Words |
 |---|---|---|
 | [`00-house-style.md`](00-house-style.md) | The defaults. Copy these if you want no decisions. | 720 |
-| [`01-narrative.md`](01-narrative.md) | What the deck must argue, and in what order. | 5,981 |
+| [`01-narrative.md`](01-narrative.md) | What the deck must argue, and in what order. | 5,962 |
 | [`02-artifact-and-length.md`](02-artifact-and-length.md) | Which deck you are building, how many slides, how long. | 1,118 |
 | [`03-slide-by-slide.md`](03-slide-by-slide.md) | What belongs on each individual slide. | 1,446 |
 | [`04-type-and-layout.md`](04-type-and-layout.md) | Text density, type scale, fonts, grid, alignment. | 1,804 |
 | [`05-color-and-access.md`](05-color-and-access.md) | Palette architecture, contrast, dark mode, accessibility. | 1,312 |
-| [`06-charts-and-data.md`](06-charts-and-data.md) | Charts, tables, numbers, screenshots, sources, units. | 1,518 |
+| [`06-charts-and-data.md`](06-charts-and-data.md) | Charts, tables, numbers, screenshots, sources, units. | 1,519 |
 | [`07-delivery.md`](07-delivery.md) | Saying it out loud, and fielding interruptions. | 505 |
 | [`08-export-and-qa.md`](08-export-and-qa.md) | File formats, sending, and the pre-send checklist. | 1,270 |
 | [`09-failure-modes.md`](09-failure-modes.md) | What goes wrong, and what to delete. | 686 |
 | [`10-sources.md`](10-sources.md) | Which rules are hard, which are soft, and where each came from. | 1,486 |
 | [`11-polarity-evidence.md`](11-polarity-evidence.md) | Dark versus light: the actual evidence, the debunked claims, and a recommendation per scenario. | 1,915 |
 
-Total 19,761 words across 12 files.
+Total 19,743 words across 12 files.
 
 ## What is in each file
 

@@ -330,7 +330,7 @@ On a live projected deck the presenter also says the provenance out loud, so the
 
 For market claims:
 
-> Source: Gartner, 2025; company analysis
+> Source: [research firm], [year]; company analysis
 
 For internal metrics:
 

@@ -71,7 +71,7 @@ Context is the limiting resource. Protect it.
 This section suits founders and anyone who writes about evidence, and it can be deleted.
 
 - Name the evidence grade at the claim. Never imply validation when the evidence is internal, preliminary or unreviewed.
-- Never state that an agreement is signed unless it is confirmed.
+- Never state that a deal is closed or a document is signed unless it is confirmed.
 - A claim may cite only a source that reports that claim as a result. A framework document is not evidence for a specific claim.
-- Separate what is live, what is piloted, what is benchmarked internally, and what is roadmap.
+- Separate what is shipped, what is in trial, what is measured internally, and what is planned.
 - Avoid hype words such as revolutionary, breakthrough, world-class and guaranteed.
