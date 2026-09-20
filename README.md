@@ -2,6 +2,14 @@
 
 Released under CC0 1.0 Universal, see `LICENSE`. Anyone may use, change and share it for any purpose, with no conditions and no attribution.
 
+## Provenance: a personal tool with nothing proprietary in it
+
+This kit is the personal writing and presentation toolkit of its author, used for prose of every kind, from work documents to private notes. It was written and is maintained as a private project, outside the duties of any employment, and it was not commissioned by any employer or client.
+
+It contains no confidential or proprietary material of any organization. Every example is public: a 2004 investor deck its founder published with annotations, founder stories told in public, and academic and practitioner sources, each cited where it is used.
+
+It is dedicated to the public domain under CC0 1.0 Universal. Anyone, including any employer of the author, may use, change and share it without permission, and nobody needs a license from anyone. First published 2026-09-20.
+
 One master rule file, two skills, and a generator that writes the same rules in the shape each assistant reads: Claude Code, Cursor, ChatGPT and Codex. Edit the master once, run the check script, and every output is regenerated and verified.
 
 ## One master, generated copies everywhere else
