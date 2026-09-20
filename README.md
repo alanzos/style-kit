@@ -1,6 +1,6 @@
 # Style kit
 
-Licensed under the MIT License, see `LICENSE`.
+Released under CC0 1.0 Universal, see `LICENSE`. Anyone may use, change and share it for any purpose, with no conditions and no attribution.
 
 One master rule file, two skills, and a generator that writes the same rules in the shape each assistant reads: Claude Code, Cursor, ChatGPT and Codex. Edit the master once, run the check script, and every output is regenerated and verified.
 
